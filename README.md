@@ -1,4 +1,4 @@
-# grunt-ver
+# Matt Smells
 
 A [Grunt](https://github.com/cowboy/grunt) 0.4 [multi-task](https://github.com/cowboy/grunt/blob/master/docs/types_of_tasks.md) that does 3 things:
 
